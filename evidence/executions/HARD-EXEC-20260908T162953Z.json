@@ -1,0 +1,32 @@
+{
+  "execution_id": "HARD-EXEC-20260908T162953Z",
+  "provider": "local-terminal",
+  "test": "VERDIX WORKBENCH HARD EXECUTION PROBE",
+  "started_at": "2026-09-08T16:29:53Z",
+  "finished_at": "2026-09-08T16:29:55Z",
+  "duration_ms": 2282,
+  "status": "PASS",
+  "results": {
+    "node": {
+      "stdout": "NODE_OK\nv22.23.2",
+      "exit_code": 0
+    },
+    "python": {
+      "stdout": "PYTHON_OK",
+      "exit_code": 0
+    },
+    "gcc": {
+      "build_exit_code": 0,
+      "stdout": "GCC_OK",
+      "run_exit_code": 0
+    },
+    "openssl": {
+      "stdout": "OpenSSL 3.0.13 30 Jan 2024 (Library: OpenSSL 3.0.13 30 Jan 2024)",
+      "exit_code": 0
+    },
+    "git": {
+      "stdout": "git version 2.43.0",
+      "exit_code": 0
+    }
+  }
+}

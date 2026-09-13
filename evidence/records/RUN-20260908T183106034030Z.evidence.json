@@ -1,0 +1,9 @@
+{
+  "evidence_id": "RUN-20260908T183106034030Z",
+  "execution_id": "RUN-20260908T183106034030Z",
+  "artifact": "evidence/executions/RUN-20260908T183106034030Z.json",
+  "artifact_sha256": "dd83860e6caebfba852d12a3a9c2564d2d77027a621652fc8034485abd87b595",
+  "recorded_at": "2026-09-08T18:34:43Z",
+  "evidence_status": "CAPTURED",
+  "verification_status": "UNREVIEWED"
+}

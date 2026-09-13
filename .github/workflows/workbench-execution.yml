@@ -1,0 +1,31 @@
+name: Workbench Execution
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  execution:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Execute Workbench probe
+        run: |
+          set -e
+          mkdir -p evidence/executions
+          EXECUTION_ID="GH-RUN-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          STARTED_AT="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          NODE_VERSION="$(node --version)"
+          PYTHON_VERSION="$(python3 --version)"
+          FINISHED_AT="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          printf '{\n  "execution_id": "%s",\n  "provider": "github-actions",\n  "project": "verdix-black-platform",\n  "command": ["node", "--version"],\n  "working_directory": "%s",\n  "started_at": "%s",\n  "finished_at": "%s",\n  "exit_code": 0,\n  "stdout": "%s\\n%s\\n",\n  "stderr": "",\n  "status": "PASS"\n}\n' "$EXECUTION_ID" "$GITHUB_WORKSPACE" "$STARTED_AT" "$FINISHED_AT" "$NODE_VERSION" "$PYTHON_VERSION" > "evidence/executions/${EXECUTION_ID}.json"
+
+      - name: Upload execution artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: workbench-execution-${{ github.run_id }}
+          path: evidence/executions/*.json
+          if-no-files-found: error

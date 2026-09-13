@@ -1,0 +1,9 @@
+{
+  "evidence_id": "HARD-EXEC-20260908T162953Z",
+  "execution_id": "HARD-EXEC-20260908T162953Z",
+  "artifact": "evidence/executions/HARD-EXEC-20260908T162953Z.json",
+  "artifact_sha256": "94a46c0a345a4a2aee160e55e97282ffba2ab20243228145366ea51ec1f3dbee",
+  "recorded_at": "2026-09-08T17:51:24Z",
+  "evidence_status": "CAPTURED",
+  "verification_status": "UNREVIEWED"
+}
