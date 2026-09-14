@@ -1,6 +1,5 @@
-<img width="1254" height="1254" alt="ChatGPT Image 14 سبتمبر 2026، 06_06_52 ص" src="https://github.com/user-attachments/assets/d99948ff-cc4d-406b-994c-be9f6ca1650a" />![<img width="660" height="668" alt="IMG_٢٠٢٦٠٩١٤_٠٥٤٧٣١" src="https://github.com/user-attachments/assets/6a49b6a4-d55c-436d-b8fd-9a86ae40887f" />
-<img width="1374" height="1145" alt="ChatGPT Image 11 سبتمبر 2026، 06_36_49 ص" src="https://github.com/user-attachments/assets/fc366ecd-0cc1-40c6-b24d-4ed7b30c57e7" />
- Image 14 سبتمبر 2026، 06_06_52 ص.png…]()
+<img width="660" height="668" alt="IMG_٢٠٢٦٠٩١٤_٠٥٤٧٣١" src="https://github.com/user-attachments/assets/edd018ef-942a-48cf-a43d-eb7aae253f97" />
+
 
 
 
