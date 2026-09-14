@@ -1,6 +1,4 @@
-![Uploading ChatGPT Image 14 سبتمبر 2026، 06_06_52 ص.png…]()
-
-<img width="1086" height="1448" alt="file_00000000ba80820a82f680819a348046" src="https://github.com/user-attachments/assets/48144297-26f5-4650-8793-45f8b08f03ab" />
+ Golden-Kin-Atelier alt="file_00000000ba80820a82f680819a348046" src="https://github.com/user-attachments/assets/48144297-26f5-4650-8793-45f8b08f03ab" />
 
 
 Golden-Kin-Atelier
