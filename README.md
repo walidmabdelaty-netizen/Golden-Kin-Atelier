@@ -1,3 +1,25 @@
+<div align="center">
+  <h2>المخططات الهندسية ونموذج العرض السيادي — Golden Kin Atelier</h2>
+  <table border="0" style="width: 100%; text-align: center;">
+    <tr>
+      <td width="33%" valign="bottom">
+        <img src="assets/images/golden_kin_display.png" width="100%" style="border-radius: 6px;" />
+        <br /><sub><b>نموذج العرض السيادي (3D Display)</b></sub>
+      </td>
+      <td width="33%" valign="bottom">
+        <img src="assets/images/engineering_blueprint.png" width="100%" style="border-radius: 6px;" />
+        <br /><sub><b>المخطط الهندسي الدقيق والمقاييس</b></sub>
+      </td>
+      <td width="33%" valign="bottom">
+        <img src="assets/images/golden_kin_logo.png" width="100%" style="border-radius: 6px;" />
+        <br /><sub><b>شعار الهوية الفاخرة (Golden Crest)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 # SOVEREIGN DIGITAL ASSET
 ## Provenance, Technical Integrity & Transfer Framework
 
