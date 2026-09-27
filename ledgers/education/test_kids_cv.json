@@ -1,0 +1,26 @@
+{
+  "ID-EDU-2026-001": [
+    {
+      "payload": {
+        "evidence_reference": "DOC://MINISTRY_EDU/KG/8899",
+        "issuer": "KG_Academy_01",
+        "issued_at": "2026-09-20T01:35:28.591836+00:00",
+        "content_hash": "a1b2c3d4e5f6...",
+        "previous_event_hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "current_event_hash": "251bf65a45b049d571a5b0917f739ececffffb9a8cb3cf3c4dc81b492c21a780",
+      "verification_state": "VERIFIED"
+    },
+    {
+      "payload": {
+        "evidence_reference": "DOC://MINISTRY_EDU/PRI/7766",
+        "issuer": "Primary_School_02",
+        "issued_at": "2026-09-20T01:35:28.595827+00:00",
+        "content_hash": "9f8e7d6c5b4a...",
+        "previous_event_hash": "251bf65a45b049d571a5b0917f739ececffffb9a8cb3cf3c4dc81b492c21a780"
+      },
+      "current_event_hash": "d96c7d388b47a53fcc388ce90ff556453ccaba6b3856b284ebc4921b4aeff747",
+      "verification_state": "VERIFIED"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{"system": "Verdix Black Platform", "port": 7001, "engine_status": "ACTIVE_PQC_SECURED", "active_ledgers": ["Professional_Card", "Kids_CV"]}
+{"shield": "ARMORED", "integrity": "STABLE"}

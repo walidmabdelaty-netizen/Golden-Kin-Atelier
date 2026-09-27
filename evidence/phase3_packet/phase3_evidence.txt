@@ -1,0 +1,8 @@
+=== VERDIX PHASE 3: PACKET SCHEMA EVIDENCE ===
+[✔] Positive Test (Valid Packet): SCHEMA_V1_VALIDATED
+[✔] Canonical Serialization Determinism: Deterministic byte match
+[✔] Negative Test (Extra Root Field): Packet root keys mismatch. Expected exactly: {'header', 'payload', 'proof', 'kem_envelope'}
+[✔] Negative Test (Missing packet_id): packet_id must be a valid UUIDv4
+[✔] Negative Test (Clock Skew Future): created_at is too far in the future (clock skew violation)
+[✔] Negative Test (KEM Length Mismatch): encapsulated_key must be Base64-encoded bytes of length 1088
+[✔] Negative Test (Boolean Type Confusion): created_at must be an integer Unix timestamp

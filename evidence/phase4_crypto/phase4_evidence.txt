@@ -1,0 +1,11 @@
+=== VERDIX PHASE 4: CRYPTOGRAPHIC FOUNDATION EVIDENCE ===
+[✔] AES-256-GCM Roundtrip: Plaintext recovered exactly
+[✔] ML-KEM-768 KeyGen: EK: 1184B, DK: 2400B (FIPS 203 Valid)
+[✔] ML-KEM-768 Encapsulation: Capsule size: 1088B
+[✔] ML-KEM-768 Shared Secret Equality: Secrets match: 32B shared secret
+[✔] Explicit KDF Derivation: Derived 256-bit key from Shared Secret
+[✔] KEM -> KDF -> AES Roundtrip: End-to-End Encryption Validated
+[✔] Negative Test (Tampered KEM Capsule): Implicit Rejection triggered InvalidTag
+[✔] Negative Test (Wrong KEM DK): Foreign DK failed decryption
+[✔] Negative Test (Tampered Payload CT): Payload tampering caught with InvalidTag
+[✔] Negative Test (Tampered Payload AAD): AAD modification caught with InvalidTag
