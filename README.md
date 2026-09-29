@@ -1,3 +1,4 @@
+<img width="1027" height="1531" alt="file_000000007354822fbc15ecd33ef5e530" src="https://github.com/user-attachments/assets/986b772f-1d0d-4370-9a37-0bd1532be138" />
 <div align="center">
   <h2>المخططات الهندسية ونموذج العرض السيادي — Golden Kin Atelier</h2>
   <table border="0" style="width: 100%; text-align: center;">
