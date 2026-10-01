@@ -1,19 +1,5 @@
- src="assets/images/golden_kin_display.png" width="100%" style="border-radius: 6px;" />
-        <br /><sub><b>نموذج العرض السيادي (3D Display)</b></sub>
-      </td>
-      <td width="33%" valign="bottom">
-        <img src="assets/images/engineering_blueprint.png" width="100%" style="border-radius: 6px;" />
-        <br /><sub><b>المخطط الهندسي الدقيق والمقاييس</b></sub>
-      </td>
-      <td width="33%" valign="bottom">
-        <img src="assets/images/golden_kin_logo.png" width="100%" style="border-radius: 6px;" />
-        <br /><sub><b>شعار الهوية الفاخرة (Golden Crest)</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<img width="720" height="1600" alt="Screenshot_2026-09-26-11-36-34-65" src="https://github.com/user-attachments/assets/d0dbf06c-9a4a-44b7-9521-3ded85f24bee" />
 
----
 
 # SOVEREIGN DIGITAL ASSET
 ## Provenance, Technical Integrity & Transfer Framework
