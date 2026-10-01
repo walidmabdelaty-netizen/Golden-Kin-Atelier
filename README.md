@@ -1,13 +1,4 @@
-<img width="720" height="1600" alt="Screenshot_2026-09-26-11-36-34-65" src="https://github.com/user-attachments/assets/f439daff-10a5-4596-94d2-25e16272c27a" />
-![Uploading ChatGPT Image 11 سبتمبر 2026، 06_36_49 ص.png…]()
-<img width="941" height="1672" alt="file_0000000056d481f487a4ac542bc3a580" src="https://github.com/user-attachments/assets/f925dfbd-d03d-4a64-98bd-10fe6c2df4f6" />
-<img width="1027" height="1531" alt="file_000000007354822fbc15ecd33ef5e530" src="https://github.com/user-attachments/assets/986b772f-1d0d-4370-9a37-0bd1532be138" />
-<div align="center">
-  <h2>المخططات الهندسية ونموذج العرض السيادي — Golden Kin Atelier</h2>
-  <table border="0" style="width: 100%; text-align: center;">
-    <tr>
-      <td width="33%" valign="bottom">
-        <img src="assets/images/golden_kin_display.png" width="100%" style="border-radius: 6px;" />
+ src="assets/images/golden_kin_display.png" width="100%" style="border-radius: 6px;" />
         <br /><sub><b>نموذج العرض السيادي (3D Display)</b></sub>
       </td>
       <td width="33%" valign="bottom">
