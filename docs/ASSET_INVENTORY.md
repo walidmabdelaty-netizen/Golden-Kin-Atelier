@@ -73,7 +73,7 @@ The following items remain **NOT YET EVIDENCED IN THE CURRENT REPOSITORY**:
 - Editable packaging and stationery artwork;
 - Brand guidelines in a deliverable document;
 - Original files corresponding to the historical display and blueprint references;
-- A verified, itemized QR destination and artwork file;
+- The QR artwork source file and a recorded destination URL. The creator has stated that the QR code currently resolves to the brand link; this inventory has not independently opened or validated the destination URL;
 - Ownership and transfer evidence for any domain, account, or registered trademark proposed for inclusion.
 
 This status does not assert that the items do not exist elsewhere. It means they were not established by the current repository tree and reviewed history.
