@@ -68,7 +68,11 @@ The following are not included merely because they exist in the same GitHub repo
 
 This inventory describes brand materials; it is not a trademark registration certificate, legal opinion, or proof of ownership of any third-party account or domain.
 
-Any trademark registration, jurisdiction, filing, renewal, or other official legal status must be supported by its corresponding records and handled under the parties' written transfer agreement. The buyer's chosen jurisdiction and any post-transfer registration obligations should be stated expressly in that agreement.
+**The choice of where to register the brand is deliberately left to the buyer.** The creator does not impose a particular country, jurisdiction, regional filing route, or international registration strategy as a condition of acquiring the brand. After the agreed transfer of the brand assets and rights, the buyer may decide which jurisdiction or jurisdictions best fit the buyer's business, markets, and legal strategy, and may seek the relevant national, regional, or international protection available through the applicable legal systems.
+
+This approach is intended to preserve the buyer's freedom of choice and avoid requiring the buyer to adopt, pay for, or later change a registration route selected in advance by the creator. Registration requirements, procedures, costs, scope of protection, and eligibility differ by jurisdiction; there is no single filing that automatically provides trademark protection in every country. Any registration or filing must therefore be assessed under the rules of the selected jurisdiction or system.
+
+The parties' signed transfer agreement must identify precisely which brand assets and intellectual-property rights are being assigned, the effective transfer date, and any existing registrations (if any) that are actually included. The buyer's subsequent registration choices, filings, renewals, and related costs should be allocated expressly in that agreement. No existing registration, worldwide protection, or completed legal transfer is claimed by this inventory unless supported by the corresponding official records and executed documents.
 
 The transfer scope is limited to the brand assets and rights expressly identified in the signed agreement and its final schedule. Repository access alone does not transfer third-party accounts, subscriptions, domains, or legal registrations.
 
