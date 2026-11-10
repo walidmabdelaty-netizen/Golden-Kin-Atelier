@@ -1,95 +1,76 @@
-# Golden Kin Atelier — Repository Asset Inventory
+# Golden Kin Atelier — Brand Asset Inventory
 
-**Inventory date:** 2026-11-08  
+**Inventory date:** 2026-11-10  
 **Repository:** `walidmabdelaty-netizen/Golden-Kin-Atelier`  
-**Branch reviewed:** `main`  
-**Reviewed tree:** 6,454 entries (5,700 files; 754 directories)  
-**Inventory status:** EVIDENCED PARTIAL INVENTORY — NOT A DELIVERY CERTIFICATE
+**Branch:** `main`  
+**Record status:** Brand asset inventory — visual references received; repository package assembly in progress
 
-## 1. Purpose
+## 1. Brand identity
 
-This record separates brand-related material from development-environment and engineering-workbench material. It records what was visible in the reviewed GitHub tree and relevant README history. It does not infer ownership, registration, transferability, or the existence of files outside this repository.
+Golden Kin Atelier is presented as a luxury fashion and beauty brand identity. Its visual direction combines a gold ornamental frame, a crowned silver dragon, the `GK` monogram, and the Golden Kin Atelier wordmark.
 
-## 2. Current branch observations
+The brand presentation describes its intended fields as:
+- Luxury fashion and couture;
+- Beauty and cosmetics;
+- Premium collections and lifestyle products;
+- Atelier services and exclusive customer experiences.
 
-The current `main` tree contains:
+## 2. Visual materials received
 
-- 5,700 files and 754 directories.
-- 5,396 paths under `verdix-env/`.
-- 251 paths under `workbench/`.
-- 14 PNG files and 3 SVG files in the current tree; the identified image files are under `workbench/src-tauri/icons/`, `workbench/public/`, or `workbench/src/assets/` and appear to be application/workbench resources, not the Golden Kin Atelier brand artwork.
-- No current `assets/images/`, `brand-assets/`, `visual-identity/`, or equivalent dedicated brand-asset directory was found in the reviewed tree.
+The following visual materials have been supplied for the brand package review:
 
-The repository also contains technical source, test, evidence, database, log, and development-environment material. Such content is not automatically part of the brand acquisition and is excluded unless specifically listed in a later signed delivery schedule.
+| Asset | Description | Current record |
+|---|---|---|
+| Primary emblem artwork | Crowned silver dragon, gold ornamental frame, and `GK` monogram | Visual reference received |
+| Brand identity presentation | Brand name, positioning, values, visual identity, and application concepts | Visual reference received |
+| Brand application concepts | Fashion, beauty, packaging, stationery, digital, and retail presentation examples | Shown in the supplied presentation |
+| Brand variations and usage guidance | Alternative emblem treatments, construction guidance, minimum-size examples, and incorrect-use examples | Shown in the supplied presentation |
 
-## 3. Historical README references
+The supplied visuals establish the appearance and intended presentation of these materials. They do not, by themselves, establish that every depicted application has a separate editable production file.
 
-A historical README revision at commit `06861d63cbc1fa79d928945ee247e4623b0ae3d7` referenced these local paths:
+## 3. Source design references
 
-- `assets/images/golden_kin_display.png`
-- `assets/images/engineering_blueprint.png`
-- `assets/images/golden_kin_logo.png`
+The creator supplied these Canva design links as source references:
 
-Those paths were not found in the current `main` tree during this inventory.
+- https://canva.link/k4iap20jzqjf47b
+- https://canva.link/8da4shhfm3a97ix
 
-The same historical README referenced GitHub-hosted user attachments:
+These links are references to the source designs. The editable Canva documents, export files, and any account-level access are distinct items and should be identified explicitly in the final transfer schedule.
 
-- `https://github.com/user-attachments/assets/f925dfbd-d03d-4a64-98bd-10fe6c2df4f6`
-- `https://github.com/user-attachments/assets/986b772f-1d0d-4370-9a37-0bd1532be138`
+## 4. QR code and destination
 
-Later README revisions referenced additional attachment URLs, including:
+A QR code is shown in the supplied brand presentation. Its destination must be recorded and checked as part of the final handover so the buyer receives the intended working destination and any associated redirect or domain control that is included in the agreement.
 
-- `https://github.com/user-attachments/assets/f439daff-10a5-4596-94d2-25e16272c27a`
-- `https://github.com/user-attachments/assets/d0dbf06c-9a4a-44b7-9521-3ded85f24bee`
+## 5. Proposed brand package scope
 
-These are historical references only. Their continued availability and their exact contents were not independently verified in this inventory. They must not be treated as editable source files or as a complete delivery package.
+The brand package is intended to cover the Golden Kin Atelier brand identity and the brand-specific materials expressly listed in the final transfer schedule, which may include:
 
-## 4. Historical repository change requiring review
+- Primary logo and emblem artwork;
+- Transparent and other production-ready logo exports;
+- Brand presentation and identity guidelines;
+- Brand-specific visual assets and application artwork;
+- Editable source files, where available and expressly included;
+- QR artwork and its confirmed destination details;
+- Associated brand documentation and provenance records.
 
-Commit `44e6a6a2c885d332fa088ba9a3cf2c1818d1f40f` is titled:
+A visual mockup is not represented as an editable production file. Each deliverable should be identified by its actual filename, format, and type in the final schedule.
 
-`Secure Golden Kin Vault: Encrypted asset saved, raw files removed`
+## 6. Excluded materials
 
-That commit message indicates an intention to store an encrypted asset and remove raw files. The current tree and current README do not establish that the encrypted asset named in the former README (`engineering_blueprint.gcm.enc`) is present or recoverable. The commit message alone is not proof of successful encryption, completeness, recoverability, or secure custody.
+The following are not included merely because they exist in the same GitHub repository:
 
-No historical files have been restored, deleted, or modified as part of this inventory.
-
-## 5. Verified exclusions from the acquisition package at this stage
-
-Unless later reviewed and explicitly included, the following are excluded from the Golden Kin Atelier buyer package:
-
-- `verdix-env/` and its installed dependencies;
+- `verdix-env/` and its dependencies;
 - `workbench/` application source and build artifacts;
-- unrelated Verdix engineering modules, test fixtures, databases, logs, and runtime evidence;
-- any account, domain, registration, or third-party service not individually verified as owned and transferable.
+- Unrelated Verdix engineering modules, test fixtures, databases, logs, and runtime materials;
+- Personal or third-party accounts, domains, registrations, subscriptions, or services unless individually identified and expressly included in the signed transfer agreement.
 
-## 6. Outstanding asset evidence
+## 7. Ownership, registration, and transfer
 
-The following items remain **NOT YET EVIDENCED IN THE CURRENT REPOSITORY**:
+This inventory describes brand materials; it is not a trademark registration certificate, legal opinion, or proof of ownership of any third-party account or domain.
 
-- Editable master logo/emblem source;
-- Transparent production logo exports;
-- Brand color and typography source specifications;
-- Editable packaging and stationery artwork;
-- Brand guidelines in a deliverable document;
-- Original files corresponding to the historical display and blueprint references;
-- The QR artwork source file and a recorded destination URL. The creator has stated that the QR code currently resolves to the brand link; this inventory has not independently opened or validated the destination URL;
-- Ownership and transfer evidence for any domain, account, or registered trademark proposed for inclusion.
+Any trademark registration, jurisdiction, filing, renewal, or other official legal status must be supported by its corresponding records and handled under the parties' written transfer agreement. The buyer's chosen jurisdiction and any post-transfer registration obligations should be stated expressly in that agreement.
 
-This status does not assert that the items do not exist elsewhere. It means they were not established by the current repository tree and reviewed history.
-
-## 7. Required next evidence step
-
-Locate the original brand files in the creator-controlled source location, then add only the actual transferable files to a dedicated brand-asset directory. For each delivered file, record:
-
-- Exact filename and format;
-- Source/origin and creator or rights basis;
-- File size;
-- SHA-256 checksum;
-- Whether the file is editable, export-only, or a presentation mockup;
-- Whether it is included in the proposed transfer.
-
-Do not replace historical evidence or describe an unverified item as recovered.
+The transfer scope is limited to the brand assets and rights expressly identified in the signed agreement and its final schedule. Repository access alone does not transfer third-party accounts, subscriptions, domains, or legal registrations.
 
 ---
 
